@@ -1,12 +1,16 @@
-## Hi there 👋
+# 🧩 기획 의도 (24/01/26 - 초기 프로젝트 세팅)
+많은 사람들이 호기심이 많고 새로운 지식을 알고 싶어하지만, 이를 지속적으로 습득하기 어려운 환경에 놓여 있습니다. 특히, **지적 대화**를 즐기고자 하는 이들은 넓고 얕은 지식을 제공하는 책(예: 지적 대화를 위한 넓고 얕은 지식)이나 유튜브 채널(예: 사물궁이)을 통해 지식을 접하곤 합니다. 그러나 이러한 매체들은 종종 **광고**나 **스마트폰의 방해 요소**로 인해 집중력을 잃고 다른 길로 세는 경우가 많습니다.
 
-<!--
+이러한 한계를 보완하기 위해, 사용자가 꾸준히 적은 시간을 투자해 **매일 새로운 지식을 접할 수 있는 서비스**를 기획하게 되었습니다. 특히, *『1일 1페이지 세상에서 가장 짧은 교양 수업 365』*와 매일 메일과 같은 서비스를 통해, 간결하면서도 지속 가능한 지식 전달 방식에 영감을 받았습니다.
 
-**Here are some ideas to get you started:**
+"인사이드 인사이트"는 다음과 같은 목적을 가지고 있습니다:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. **호기심 충족**: 매일 짧고 흥미로운 지식을 제공하여 호기심을 자극.
+2. **지속 가능한 학습**: 한 번에 많은 시간을 투자하지 않아도 꾸준히 학습할 수 있는 환경 제공.
+3. **방해 요소 제거**: 광고나 다른 콘텐츠의 유혹 없이, 간결하고 집중할 수 있는 형태의 지식 전달.
+4. **다양한 분야 탐구**: 특정 분야에 국한되지 않고, 인문학, 과학, 예술 등 **다양한 분야의 지식**을 균형 있게 제공.
+5. **지적 대화 지원**: 가벼운 지식을 통해 깊이 있는 대화의 출발점을 마련.
+
+"인사이드 인사이트"는 **간결함**, **지속 가능성**, **다양성**을 핵심 가치로 삼아, 현대인이 손쉽게 지식을 접하고 성장할 수 있는 새로운 방식의 교양 서비스로 자리 잡을 것입니다.
+
+---
